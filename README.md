@@ -1,5 +1,5 @@
-# QR-CODE-Modelo
-Criação de um modelo de site com leitura de QR Code
-Modelo Básico de HTML e CSS
-Você deverá conseguir visualizar o site e capturar o QR Code através da câmera , que irá direcionar diretamente para o meu perfil do Github.
-Este projeto foi inspirado pela comunidade Frontend Mentor 
+# QR-CODE-Model
+
+## This is an website designed by me with an QR Code wich can be scanned and redirectioned to another page. 
+## You should be able to point your camera to the code,scan it, and click the link on the screen.
+
