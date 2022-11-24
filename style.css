@@ -1,0 +1,15 @@
+:root {
+
+   background: #FFEEEE; 
+   background: -webkit-linear-gradient(to right, #cdee90, #f1c8c8);
+   background: linear-gradient(to right, #c7df9c, #FFEEEE); 
+   
+
+}
+
+.container {
+
+   text-align: center;
+   border-radius: 50% ;
+   
+}
